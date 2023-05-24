@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "415808339830",
+    "project_id": "donemuygulamam",
+    "storage_bucket": "donemuygulamam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415808339830:android:c79b92ebe438aa86de8457",
+        "android_client_info": {
+          "package_name": "com.example.donemuygulamam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415808339830-h73jduncmrqhi44rlghuf0ukgbv1abig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0eSxysfrOZzsro_z6-LbdyStBw5YYups"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415808339830-h73jduncmrqhi44rlghuf0ukgbv1abig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
